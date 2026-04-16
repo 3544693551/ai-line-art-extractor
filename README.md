@@ -15,7 +15,7 @@
 
 ## 🇬🇧 English Introduction
 
-The **SPAI Quick Line Art Extractor** is an advanced AI platform that automates the tedious task of tracing. By analyzing image structures and depth, it extracts clean, high-resolution outlines from any photo or illustration in seconds.
+The **SPAI Quick Line Art Extractor** is an advanced AI platform that automates the tedious task of tracing. By analyzing image structures and depth, it extracts clean, high-resolution outlines from any photo or illustration in seconds
 
 ### Key Features
 *   **✨ Intelligent Recognition:** Uses millions of contour data points to capture edges, hair, and fine textures accurately.
