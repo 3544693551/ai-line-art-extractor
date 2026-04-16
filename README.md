@@ -50,7 +50,7 @@ The **SPAI Quick Line Art Extractor** is an advanced AI platform that automates 
 | ![彩色花卉照片](https://img.sipingseo.com/file/quick-lineart-extract/MFRbS98r.webp) | ![精细工笔线稿](https://img.sipingseo.com/file/quick-lineart-extract/7GZr2s5e.webp) |
 
 #### 2. 简约速写 (Minimalist Sketch)
-去除冗余细节，突出建筑与物体的骨架结构，线条简练有力。
+去除冗余细节，突出建筑与物体的骨架结构，线条简练有力
 | 处理前 (Before) | 提取后 (After) |
 | :---: | :---: |
 | ![建筑风景照片](https://img.sipingseo.com/file/quick-lineart-extract/Lgw06M5u.webp) | ![简约速写线稿](https://img.sipingseo.com/file/quick-lineart-extract/uPyBQ2aU.webp) |
