@@ -44,7 +44,7 @@ The **SPAI Quick Line Art Extractor** is an advanced AI platform that automates 
 我们的 AI 模型针对不同的设计场景进行了深度优化：
 
 #### 1. 精细工笔 (Fine Art Lines)
-完美保留花瓣纹理、衣褶细节，适合专业插画与纹身设计参考。
+完美保留花瓣纹理、衣褶细节，适合专业插画与纹身设计参考
 | 处理前 (Before) | 提取后 (After) |
 | :---: | :---: |
 | ![彩色花卉照片](https://img.sipingseo.com/file/quick-lineart-extract/MFRbS98r.webp) | ![精细工笔线稿](https://img.sipingseo.com/file/quick-lineart-extract/7GZr2s5e.webp) |
