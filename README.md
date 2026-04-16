@@ -56,7 +56,7 @@ The **SPAI Quick Line Art Extractor** is an advanced AI platform that automates 
 | ![建筑风景照片](https://img.sipingseo.com/file/quick-lineart-extract/Lgw06M5u.webp) | ![简约速写线稿](https://img.sipingseo.com/file/quick-lineart-extract/uPyBQ2aU.webp) |
 
 #### 3. 动漫描线 (Anime Lining)
-AI 深度解析二次元人物特征，生成闭合流畅的线条，最适合作为上色底稿。
+AI 深度解析二次元人物特征，生成闭合流畅的线条，最适合作为上色底稿
 | 处理前 (Before) | 提取后 (After) |
 | :---: | :---: |
 | ![人物肖像照片](https://img.sipingseo.com/file/quick-lineart-extract/KhBYdiit.webp) | ![动漫线稿提取](https://img.sipingseo.com/file/quick-lineart-extract/u7CuWhFU.webp) |
