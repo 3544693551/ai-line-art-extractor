@@ -5,7 +5,7 @@
 [![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://www.sipingseo.com/zh/line-art-extract/quick-lineart-extract)
 [![Rating](https://img.shields.io/badge/rating-4.9%2F5-brightgreen)](https://www.sipingseo.com/zh/line-art-extract/quick-lineart-extract)
 
-**SPAI 快速精准提取线稿是一款基于深度学习技术的在线转换工具。它能一键将任意彩色图片转换为清晰、高质量的矢量级线稿。无论您需要精细的工笔画、简约的速写，还是二次元动漫描线，AI 都能精准识别主体轮廓，完美保留细节层次，是设计师和手绘爱好者的提效神器**
+**SPAI 快速精准提取线稿是一款基于深度学习技术的在线转换工具。它能一键将任意彩色图片转换为清晰、高质量的矢量级线稿。无论您需要精细的工笔画、简约的速写，还是二次元动漫描线，AI 都能精准识别主体轮廓，完美保留细节层次，是设计师和手绘爱好者的提效神器。。**
 
 ## ➡️ **[立即体验一键转换图片为线稿 | Start Extracting Line Art Now](https://www.sipingseo.com/zh/line-art-extract/quick-lineart-extract)**
 
